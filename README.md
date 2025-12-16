@@ -48,4 +48,4 @@ The Career Path Finder application is designed to act as a **personalized career
 
  **Note:** The user interface design is currently basic but is planned to be changed, and it demonstrates all core features.
 
- ### You can't code file of this project because if part of my own rearch work 
+ ### You can't code file of this project because it is part of my own rearch work. 
